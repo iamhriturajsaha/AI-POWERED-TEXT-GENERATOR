@@ -1,4 +1,4 @@
-# 🎭AI Text Generator
+# 🎭AI-Powered Text Generator
 
 An interactive Streamlit web application that detects sentiment in user input and generates contextually appropriate text using transformer models.
 
@@ -95,8 +95,8 @@ NGROK_AUTH_TOKEN = "your_token_here"
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/iamhriturajsaha/AI-TEXT-GENERATOR.git
-cd AI-TEXT-GENERATOR
+git clone https://github.com/iamhriturajsaha/AI-POWERED-TEXT-GENERATOR.git
+cd AI-POWERED-TEXT-GENERATOR
 ```
 
 2. **Create and activate virtual environment**
@@ -155,3 +155,4 @@ These settings balance creativity with coherence while minimizing repetition.
 - Dark mode theme toggle.
 - Fine-tuned sentiment-specific generation models.
 - Batch processing capability.
+
